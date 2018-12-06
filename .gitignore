@@ -1,0 +1,5 @@
+*.html
+node_modules/
+package-lock.json
+sampleOutput.json
+.env
