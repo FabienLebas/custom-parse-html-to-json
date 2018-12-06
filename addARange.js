@@ -1,3 +1,5 @@
+//start by putting HTML in all_models_from_a_range.html by copy/pasting node called rb-range-container
+
 const { parse } = require('node-html-parser');
 const fs = require('fs');
 
@@ -47,4 +49,10 @@ const myOutput = modelNames.map((e, index) => {
   return myObject;
 });
 
-console.log(myOutput);
+const previousOutput = JSON.parse(fs.readFileSync("outPut.json", 'utf8'));
+const dataToWrite = previousOutput.concat(myOutput);
+
+fs.writeFile("outPut.json", JSON.stringify(dataToWrite), (err) => {
+  if (err) throw err;
+  console.log('The file has been saved!');
+})
