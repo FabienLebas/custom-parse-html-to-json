@@ -1,0 +1,26 @@
+{
+  "name": "custom-parse-html-to-json",
+  "version": "1.0.0",
+  "description": "Get only what I need",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabienLebas/custom-parse-html-to-json.git"
+  },
+  "author": "Fabien Lebas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabienLebas/custom-parse-html-to-json/issues"
+  },
+  "homepage": "https://github.com/FabienLebas/custom-parse-html-to-json#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-html-parser": "^1.1.11"
+  }
+}
