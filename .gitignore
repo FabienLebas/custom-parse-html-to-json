@@ -1,7 +1,6 @@
 *.html
 node_modules/
 package-lock.json
-sampleOutput.json
 .env
-outPut.json
-productsOutput.json
+input/
+output/

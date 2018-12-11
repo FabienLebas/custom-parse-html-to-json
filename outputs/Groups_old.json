@@ -1,0 +1,26 @@
+[
+  {
+    "identifier": "3",
+    "name": "Yoga",
+    "type": "SUPER_MODEL",
+    "skus": []
+  },
+  {
+  	"identifier":"1",
+    "name": "Yoga 8 mm",
+    "type": "MODEL",
+    "skus": [
+      "309896","309897"
+    ],
+    "parentIdentifier": "3"
+  },
+  {
+    "identifier": "2",
+    "name": "Yoga 10 mm",
+    "type": "MODEL",
+    "skus": [
+      "309898","309899"
+    ],
+    "parentIdentifier": "3"
+  }
+]

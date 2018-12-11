@@ -1,0 +1,160 @@
+[
+  {
+    "@context": [
+      "http://schema.org",
+      {
+        "@base": "http://www.decathlon.com"
+      }
+    ],
+    "@type": "Product",
+    "sku": "309896",
+    "name": "TAPIS YOGA DOUX 8 MM IMPRIMÉ",
+    "description": "YOGA DOUX : enchaînements lents des postures. Pratiques telles que : Hatha, Nidra, traditionnel, restorative, pré-natal...",
+    "brand": "DOMYOS",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": "2",
+      "ratingValue": "4.4"
+    },
+    "color": "Imprimé Bleu",
+    "image": [
+      "https://www.decathlon.fr/media/838/8380428/big_7bc56d6f-2623-4761-9946-fd796b050cd8.jpg",
+      "https://www.decathlon.fr/media/838/8380428/big_2418ee1c-6229-4604-b2b2-3ffee0d036a1.jpg"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "seller": {
+        "@type": "Organization",
+        "name": "Decathlon.fr"
+      },
+      "validFrom": "2018-01-01",
+      "validThrough": "2018-12-31",
+      "sku": "309896",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "25",
+        "validFrom": "2018-01-01",
+        "validThrough": "2018-12-31",
+        "valueAddedTaxIncluded": "true"
+      }
+    }
+  },
+  {
+    "@context": [
+      "http://schema.org",
+      {
+        "@base": "http://www.decathlon.com"
+      }
+    ],
+    "@type": "Product",
+    "sku": "309897",
+    "name": "TAPIS YOGA DOUX 8 MM IMPRIMÉ",
+    "description": "YOGA DOUX : enchaînements lents des postures. Pratiques telles que : Hatha, Nidra, traditionnel, restorative, pré-natal...",
+    "brand": "DOMYOS",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingCount": "2",
+      "ratingValue": "4.4"
+    },
+    "color": "Imprimé Rouge",
+    "image": [
+      "https://www.decathlon.fr/media/838/8380428/big_7bc56d6f-2623-4761-9946-fd796b050cd8.jpg",
+      "https://www.decathlon.fr/media/838/8380428/big_2418ee1c-6229-4604-b2b2-3ffee0d036a1.jpg"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "seller": {
+        "@type": "Organization",
+        "name": "Decathlon.fr"
+      },
+      "validFrom": "2018-01-01",
+      "validThrough": "2018-12-31",
+      "sku": "309896",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "25",
+        "validFrom": "2018-01-01",
+        "validThrough": "2018-12-31",
+        "valueAddedTaxIncluded": "true"
+      }
+    }
+  },{
+    "@context": [
+      "http://schema.org",
+      {
+        "@base": "http://www.decathlon.com"
+      }
+    ],
+    "@type": "Product",
+    "sku": "309898",
+    "name": "TAPIS YOGA DOUX 10 MM IMPRIMÉ",
+    "description": "YOGA DOUX : enchaînements lents des postures. Pratiques telles que : Hatha, Nidra, traditionnel, restorative, pré-natal...",
+    "brand": "DOMYOS",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "4.4"
+  },
+    "color": "Imprimé Bleu",
+    "image": [
+      "https://www.decathlon.fr/media/838/8380428/big_7bc56d6f-2623-4761-9946-fd796b050cd8.jpg",
+      "https://www.decathlon.fr/media/838/8380428/big_2418ee1c-6229-4604-b2b2-3ffee0d036a1.jpg"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "seller": {
+        "@type": "Organization",
+        "name": "Decathlon.fr"
+      },
+      "validFrom": "2018-01-01",
+      "validThrough": "2018-12-31",
+      "sku": "309896",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "25",
+        "validFrom": "2018-01-01",
+        "validThrough": "2018-12-31",
+        "valueAddedTaxIncluded": "true"
+      }
+    }
+  },{
+    "@context": [
+      "http://schema.org",
+      {
+        "@base": "http://www.decathlon.com"
+      }
+    ],
+    "@type": "Product",
+    "sku": "309899",
+    "name": "TAPIS YOGA DOUX 10 MM IMPRIMÉ",
+    "description": "YOGA DOUX : enchaînements lents des postures. Pratiques telles que : Hatha, Nidra, traditionnel, restorative, pré-natal...",
+    "brand": "DOMYOS",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "2",
+    "ratingValue": "4.4"
+  },
+    "color": "Imprimé Bleu",
+    "image": [
+      "https://www.decathlon.fr/media/838/8380428/big_7bc56d6f-2623-4761-9946-fd796b050cd8.jpg",
+      "https://www.decathlon.fr/media/838/8380428/big_2418ee1c-6229-4604-b2b2-3ffee0d036a1.jpg"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "seller": {
+        "@type": "Organization",
+        "name": "Decathlon.fr"
+      },
+      "validFrom": "2018-01-01",
+      "validThrough": "2018-12-31",
+      "sku": "309896",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "price": "25",
+        "validFrom": "2018-01-01",
+        "validThrough": "2018-12-31",
+        "valueAddedTaxIncluded": "true"
+      }
+    }
+  }
+]
