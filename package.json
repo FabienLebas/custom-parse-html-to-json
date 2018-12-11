@@ -21,6 +21,7 @@
   "homepage": "https://github.com/FabienLebas/custom-parse-html-to-json#readme",
   "dependencies": {
     "fs": "0.0.1-security",
+    "node-fetch": "^2.3.0",
     "node-html-parser": "^1.1.11"
   }
 }
