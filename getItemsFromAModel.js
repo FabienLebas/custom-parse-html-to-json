@@ -19,7 +19,6 @@ function getItemsFromAModel(model) {
   .catch(error => {
     console.warn(`Error while retrieving items from masterdata : ${error}`);
   })
-
 }
 
 module.exports = getItemsFromAModel;
